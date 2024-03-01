@@ -168,13 +168,22 @@ counting of visitors to this page in this section started from March 2, 2024
 
 
 ### Profile Views
-counting of visitors to this page in this section started from March 2, 2024
 
-![](https://count.getloli.com/get/@LucasLOOT.github.readme)
+counting of visitors to this page in this section started from March 2, 2024
+<div style="text-align:center;">
+    <img src="https://count.getloli.com/get/@LucasLOOT.github.readme" alt="Visitor Count">
+</div>
+<!-- ![](https://count.getloli.com/get/@LucasLOOT.github.readme) -->
 </br>
 
+
 counting of visitors to all page in this section started from March 2, 2024
-![](https://count.getloli.com/get/@LucasLOOT)
+<div style="text-align:center;">
+    <img src="https://count.getloli.com/get/@LucasLOOT" alt="Visitor Count for All Pages">
+</div>
+<!-- ![](https://count.getloli.com/get/@LucasLOOT) -->
+<br>
+
 
 [MIT](LICENSE)
 
