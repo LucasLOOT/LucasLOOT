@@ -14,9 +14,9 @@
     <a href="https://www.youtube.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-油管-red" /></a>&emsp;
 -->
     <a href=""><img src="https://img.shields.io/badge/WeChat-微信-green" /></a>&emsp;
-    <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-orange" /></a>&emsp;
-    <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/Zhihu-知乎-DeepSkyBlue" /></a>&emsp;
+    <a href="https://space.bilibili.com/1158350144"><img src="https://img.shields.io/badge/Bilibili-xx-ff69b4" /></a>&emsp;
+    <a href="https://blog.csdn.net/m0_64076751"><img src="https://img.shields.io/badge/CSDN-xx-orange" /></a>&emsp;
+    <a href="https://www.zhihu.com/people/Destiny"><img src="https://img.shields.io/badge/Zhihu-知乎-DeepSkyBlue" /></a>&emsp;
     
 </p>
 
