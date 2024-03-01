@@ -215,10 +215,10 @@ width="30%">
 -->
 
 
+<p align="center"> 
 
 #### Thanks for visiting :heart:
 
-<p align="center"> 
 <img src="https://profile-counter.glitch.me/LucasLOOT/count.svg">  
 
 counting of visitors to this page in this section started from March 2, 2024
