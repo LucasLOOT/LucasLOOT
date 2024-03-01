@@ -8,10 +8,12 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=LucasLOOT.LucasLOOT" alt="visitors"/>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     <a href="https://github.com/LucasLOOT/LucasLOOT/stargazers"><img src="https://img.shields.io/github/stars/LucasLOOT/LucasLOOT.svg?logo=github"></a>
     <a href="https://github.com/LucasLOOT/LucasLOOT/network/members"><img src="https://img.shields.io/github/forks/LucasLOOT/LucasLOOT.svg?color=blue&logo=github"></a><br><br>
-    <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-yellow" /></a>&emsp;
-    <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
+    <a href=""><img src="https://img.shields.io/badge/Website-博客-yellow" /></a>&emsp;
+<!-- 
+    <a href="https://twitter.com/lootCelestial"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href="https://www.youtube.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-油管-red" /></a>&emsp;
-    <a href="https://mp.sunguoqi.com"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+-->
+    <a href=""><img src="https://img.shields.io/badge/WeChat-微信-green" /></a>&emsp;
     <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
