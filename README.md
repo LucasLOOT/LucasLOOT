@@ -82,12 +82,12 @@
 
 
 **📫 How to Reach me:**
-<p align="left">
+<!-- <p align="left">
 <a href="https://twitter.com/lootCelestial" target="blank"><img align="center" src="https://raw.githubusercontent.com/LucasLOOT/LucasLOOT/master/assets/images/twitter.svg" alt="LucasLOOT" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/celestial-loot-75a4052b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/LucasLOOT/LucasLOOT/master/assets/images/linkedin.svg" alt="LucasLOOT" height="30" width="30" /></a>
 <a href="precelestialloot@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/LucasLOOT/LucasLOOT/master/assets/images/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-<a href="https://api.whatsapp.com/send?phone=+375333333355" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
-</p>
+<a href="https://api.whatsapp.com/send?phone=" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
+</p> -->
 
 <div align="center">
 <summary>Trophy: Github Profile Trophy</summary>
