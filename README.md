@@ -72,7 +72,7 @@
 ![](./assets/profile-3d-contrib/profile-south-season-animate.svg)
 
 <!--   skyline -->
-<a href="https://skyline.github.com/lucasloot/2023"><img src="./assets/stl/LucasLOOT-2023.stl" alt="" width="auto" height="auto" /></a>
+<a href="https://skyline.github.com/lucasloot/2023"><video src="./assets/video/skyline.mp4" alt="" style="width: 100%; height: auto;" /></a>
 
 
 <!--  2d history skills -->
