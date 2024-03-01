@@ -113,9 +113,9 @@ width="30%">
 
 
 
-<!-- My Home-->
+<!--  - My Home-->
   
-```geojson
+ <!-- ```geojson
 {
  "type": "FeatureCollection",
  "features": [
@@ -137,9 +137,10 @@ width="30%">
    }
  ]
 }
-``` 
 
-``` 
+``` -->
+
+``` geojson
 {
  "type": "FeatureCollection",
  "features": [
