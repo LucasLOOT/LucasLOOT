@@ -10,8 +10,9 @@
     <a href="https://github.com/LucasLOOT/LucasLOOT/network/members"><img src="https://img.shields.io/github/forks/LucasLOOT/LucasLOOT.svg?color=blue&logo=github"></a>
     <br><br>
     <a href="https://github.com/LucasLOOT/LucasLOOT"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
+    <img src="https://img.shields.io/github/languages/top/LucasLOOT/github-contributions" alt="language"/>
     <a href="https://github.com/LucasLOOT/LucasLOOT/graphs/contributors"><img src="https://img.shields.io/github/contributors/LucasLOOT/LucasLOOT?color=violet"></a>
+    <img src="https://img.shields.io/github/license/LucasLOOT/github-contributions" alt="language"/>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=LucasLOOT.LucasLOOT" alt="visitors"/><br><br>
 <!-- 
     <a href="https://twitter.com/lootCelestial"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
@@ -26,7 +27,7 @@
 </p>
 
 <!--   my-header-img -->
-![](./src/header_.png)
+![](./assets/images/cartoonSoftware_.png)
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
 
