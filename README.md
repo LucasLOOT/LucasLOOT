@@ -67,6 +67,20 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasLOOT" alt="GitHub Streak">
 </div>
 
+<picture>
+  <!-- 适配深色主题 -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=LucasLOOT&theme=dark&hide_border=true" />
+  
+  <!-- 适配浅色主题 -->
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=LucasLOOT&theme=light&hide_border=true" />
+  
+  <!-- 默认情况下 -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasLOOT&theme=default&hide_border=true" />
+</picture>
+
+
+
+
 
 <!--   profile-green-animate -->
 ![](./assets/profile-3d-contrib/profile-south-season-animate.svg)
