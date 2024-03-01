@@ -74,9 +74,9 @@
 <!--   grid-snake -->
 ![](https://github.com/LucasLOOT/LucasLOOT/blob/output/github-contribution-grid-snake.svg)
 
-<!--   skyline 
+<!--   skyline -->
 <a href="https://skyline.github.com/LucasLOOT/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
--->
+
 
 <!--  2d history skills -->
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=LucasLOOT" width="auto"></img>
