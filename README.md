@@ -74,7 +74,7 @@
 <!--   skyline -->
 <a href="https://skyline.github.com/lucasloot/2023"><img src="./assets/images/skyline.gif" alt="" width="auto" height="auto" /></a>
 
-[![Video Preview](./assets/images/skyline.gif)](https://skyline.github.com/lucasloot/2023)
+[![Video Preview](./assets/video/skyline.mp4)](https://skyline.github.com/lucasloot/2023)
 
 <!--  2d history skills -->
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=LucasLOOT" width="auto"></img>
