@@ -148,7 +148,8 @@ width="30%">
 <img src="./assets/images/credly1.png" alt="ibm" width="100%">
 <img src="./assets/images/credly2.png" alt="ibm" width="100%">
 
-</p> -->
+</p> 
+-->
 
 
 
