@@ -112,8 +112,7 @@ width="30%">
 <!-- <img src="./assets/images/github-metrics.svg" alt="Metrics" width="100%"> -->
 
 
-
-
+<!-- 
 <!-- Belarus - My Home-->
   
  ```geojson
@@ -139,15 +138,17 @@ width="30%">
  ]
 }
 
-```
+``` 
+-->
 
-<p align="center"> 
+
+<!-- <p align="center"> 
 
 <img src="./assets/images/credly0.png" alt="ibm" width="100%">
 <img src="./assets/images/credly1.png" alt="ibm" width="100%">
 <img src="./assets/images/credly2.png" alt="ibm" width="100%">
 
-</p>
+</p> -->
 
 
 
@@ -156,9 +157,10 @@ width="30%">
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/LucasLOOT/count.svg">  
 
-counting of visitors to this page in this section started from May 8, 2022
-<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+counting of visitors to this page in this section started from March 2, 2024
+<!-- <a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a> -->
 
+<a href="https://info.flagcounter.com/Xz2O"><img src="https://s11.flagcounter.com/countxl/Xz2O/bg_FFFCFC/txt_4BE3DE/border_BF30BF/columns_8/maxflags_50/viewers_0/labels_1/pageviews_1/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
 
 ## Star History
 
