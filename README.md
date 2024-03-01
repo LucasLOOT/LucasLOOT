@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-//![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasLOOT&show_icons=true&theme=cobalt)
+<!--![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasLOOT&show_icons=true&theme=cobalt)
+-->
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasLOOT&show_icons=true&theme=synthwave)
 
 <!--
