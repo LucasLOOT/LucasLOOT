@@ -1,5 +1,9 @@
 ![](assets/images/top.svg)
+
+
 <!--    -->
+
+
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/LucasLOOT/LucasLOOT"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
@@ -12,7 +16,7 @@
     <a href="https://twitter.com/lootCelestial"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href="https://www.youtube.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-油管-red" /></a>&emsp;
 -->
-    <a href=""><img src="https://img.shields.io/badge/Website-博客-yellow" /></a>&emsp;
+    <a href=""><img src="https://img.shields.io/badge/Website-blog-yellow" /></a>&emsp;
     <a href=""><img src="https://img.shields.io/badge/WeChat-Cooperation-green" /></a>&emsp;
     <a href="https://space.bilibili.com/1158350144"><img src="https://img.shields.io/badge/Bilibili-Learning-ff69b4" /></a>&emsp;
     <a href="https://blog.csdn.net/m0_64076751"><img src="https://img.shields.io/badge/CSDN-Assignment-orange" /></a>&emsp;
