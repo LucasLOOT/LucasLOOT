@@ -86,6 +86,8 @@
 
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
+<div align="center" >
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
@@ -117,7 +119,6 @@
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-<div align="center" >
 
 <img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
 <!-- svg -->
@@ -230,7 +231,7 @@ counting of visitors to this page in this section started from March 2, 2024
 
 [![Star History Chart](https://api.star-history.com/svg?repos=LucasLOOT/LucasLOOT&type=Date)](https://star-history.com/#LucasLOOT/LucasLOOT&Date)
 
-<div align="center">
+
 
 ### Profile Views
 
@@ -245,8 +246,8 @@ counting of visitors to all page in this section started from March 2, 2024
 ![](https://count.getloli.com/get/@LucasLOOT)
 <br>
 
+
 [MIT](LICENSE)
-</div>
 
 
 </p>
