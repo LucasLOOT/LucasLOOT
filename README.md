@@ -170,18 +170,14 @@ counting of visitors to this page in this section started from March 2, 2024
 ### Profile Views
 
 counting of visitors to this page in this section started from March 2, 2024
-<div style="text-align:center;">
-    <img src="https://count.getloli.com/get/@LucasLOOT.github.readme" alt="Visitor Count">
-</div>
-<!-- ![](https://count.getloli.com/get/@LucasLOOT.github.readme) -->
+
+![](https://count.getloli.com/get/@LucasLOOT.github.readme)
 </br>
 
 
 counting of visitors to all page in this section started from March 2, 2024
-<div style="text-align:center;">
-    <img src="https://count.getloli.com/get/@LucasLOOT" alt="Visitor Count for All Pages">
-</div>
-<!-- ![](https://count.getloli.com/get/@LucasLOOT) -->
+
+![](https://count.getloli.com/get/@LucasLOOT)
 <br>
 
 
@@ -189,19 +185,6 @@ counting of visitors to all page in this section started from March 2, 2024
 
 
 </p>
-
----
-  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
----
-Would you ike to meet me?
-
-If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda
-
----
-  *I use an automatic subscription control system. Thus, everyone who subscribes to me, I will subscribe to those and I will respond, and vice versa, I will remove all those who unsubscribe from me from among those who should be followed.* 
----
-
-![](assets/Bottom_down.svg)
 
 
 Initial drawing  `I love you`:
