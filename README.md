@@ -112,10 +112,10 @@ width="30%">
 <!-- <img src="./assets/images/github-metrics.svg" alt="Metrics" width="100%"> -->
 
 
-<!-- 
-<!-- Belarus - My Home-->
+
+<!-- My Home-->
   
- ```geojson
+```geojson
 {
  "type": "FeatureCollection",
  "features": [
@@ -137,10 +137,34 @@ width="30%">
    }
  ]
 }
+``` 
 
 ``` 
--->
-
+{
+ "type": "FeatureCollection",
+ "features": [
+   {
+     "type": "Feature",
+     "id": 1,
+     "properties": {
+       "ID": 0
+     },
+     "geometry": {
+       "type": "Polygon",
+       "coordinates": [
+         [
+           [120.85, 31.41],   // 上海市西部边界坐标
+           [121.89, 31.41],   // 上海市东部边界坐标
+           [121.89, 30.67],   // 上海市南部边界坐标
+           [120.85, 30.67],   // 上海市北部边界坐标
+           [120.85, 31.41]    // 上海市西部边界坐标（闭合）
+         ]
+       ]
+     }
+   }
+ ]
+}
+``` 
 
 <!-- <p align="center"> 
 
