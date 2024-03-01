@@ -215,11 +215,9 @@ width="30%">
 -->
 
 
-<div align="center">
+<p align="center"> 
 #### Thanks for visiting :heart:
-</div>
-
-
+</p>
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/LucasLOOT/count.svg">  
 
@@ -249,7 +247,6 @@ counting of visitors to all page in this section started from March 2, 2024
 
 [MIT](LICENSE)
 </div>
-
 
 </p>
 
