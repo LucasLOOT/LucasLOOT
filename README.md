@@ -9,16 +9,14 @@
     <a href="https://github.com/LucasLOOT/LucasLOOT/stargazers"><img src="https://img.shields.io/github/stars/LucasLOOT/LucasLOOT.svg?logo=github"></a>&emsp;&emsp;
     <a href="https://github.com/LucasLOOT/LucasLOOT/network/members"><img src="https://img.shields.io/github/forks/LucasLOOT/LucasLOOT.svg?color=blue&logo=github"></a>
     <br><br>
+<!-- -->
     <a href="https://github.com/LucasLOOT/LucasLOOT"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <img src="https://img.shields.io/github/languages/top/LucasLOOT/github-contributions" alt="language"/>
     <a href="https://github.com/LucasLOOT/LucasLOOT/graphs/contributors"><img src="https://img.shields.io/github/contributors/LucasLOOT/LucasLOOT?color=violet"></a>
     <img src="https://img.shields.io/github/license/LucasLOOT/github-contributions" alt="language"/>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=LucasLOOT.LucasLOOT" alt="visitors"/><br><br>
-<!-- 
-    <a href="https://twitter.com/lootCelestial"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href="https://www.youtube.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-油管-red" /></a>&emsp;
--->
-    <a href=""><img src="https://img.shields.io/badge/Website-blog-yellow" /></a>&emsp;
+<!-- -->
+    <a href=""><img src="https://img.shields.io/badge/Website-Blog-Gold" /></a>&emsp;
     <a href=""><img src="https://img.shields.io/badge/WeChat-Cooperation-green" /></a>&emsp;
     <a href="https://space.bilibili.com/1158350144"><img src="https://img.shields.io/badge/Bilibili-Learning-ff69b4" /></a>&emsp;
     <a href="https://blog.csdn.net/m0_64076751"><img src="https://img.shields.io/badge/CSDN-Assignment-orange" /></a>&emsp;
