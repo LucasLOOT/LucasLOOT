@@ -98,38 +98,18 @@
 </p>
 
 
-
-
-   <!--machine-learning-->
-```mermaid
-graph TD;
-    machine-learning-->Data;
-    machine-learning-->Algorithms;
-    machine-learning-->Statistical-Models;
-    machine-learning-->Feature-Engineering;
-    machine-learning-->Evaluation-Metrics;
-    machine-learning-->Deployment;
-   ```
-   
- 
-
-
 <div align="center">
 <summary>Trophy: Hackerrank Profile Trophy</summary>
 </div>
 
 <p align="center"> 
-
-<img src="./src/badges_hackerrank.png" alt="Metrics" width="57%"> <img src="./src/hackerrank-logo.jpg" alt="Metrics" 
+<img src="./assets/images/badges_hackerrank.png" alt="Metrics" width="57%"> <img src="./assets/images/hackerrank-logo.jpg" alt="Metrics" 
 width="30%">
-
 </p>
 
 
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
-
-
 
 
 
@@ -161,16 +141,11 @@ width="30%">
 
 ```
 
-
-
-
-
-
 <p align="center"> 
 
-<img src="./src/credly0.png" alt="ibm" width="100%">
-<img src="./src/credly1.png" alt="ibm" width="100%">
-<img src="./src/credly2.png" alt="ibm" width="100%">
+<img src="./assets/images/credly0.png" alt="ibm" width="100%">
+<img src="./assets/images/credly1.png" alt="ibm" width="100%">
+<img src="./assets/images/credly2.png" alt="ibm" width="100%">
 
 </p>
 
