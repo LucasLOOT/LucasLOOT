@@ -6,12 +6,14 @@
 
 <!--   my-icons -->
 <p align="center">
+    <a href="https://github.com/LucasLOOT/LucasLOOT/stargazers"><img src="https://img.shields.io/github/stars/LucasLOOT/LucasLOOT.svg?logo=github"></a>&emsp;&emsp;
+    <a href="https://github.com/LucasLOOT/LucasLOOT/network/members"><img src="https://img.shields.io/github/forks/LucasLOOT/LucasLOOT.svg?color=blue&logo=github"></a>
+    <br><br>
     <a href="https://github.com/LucasLOOT/LucasLOOT"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
     <a href="https://github.com/LucasLOOT/LucasLOOT/graphs/contributors"><img src="https://img.shields.io/github/contributors/LucasLOOT/LucasLOOT?color=violet"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=LucasLOOT.LucasLOOT" alt="visitors"/>&emsp;&emsp;&emsp;&emsp;&emsp;
-    <a href="https://github.com/LucasLOOT/LucasLOOT/stargazers"><img src="https://img.shields.io/github/stars/LucasLOOT/LucasLOOT.svg?logo=github"></a>
-    <a href="https://github.com/LucasLOOT/LucasLOOT/network/members"><img src="https://img.shields.io/github/forks/LucasLOOT/LucasLOOT.svg?color=blue&logo=github"></a><br><br>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=LucasLOOT.LucasLOOT" alt="visitors"/><br><br>
+    
 <!-- 
     <a href="https://twitter.com/lootCelestial"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href="https://www.youtube.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-油管-red" /></a>&emsp;
