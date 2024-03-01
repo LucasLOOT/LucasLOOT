@@ -113,7 +113,7 @@ width="30%">
 
 
 
-``` geojson
+```geojson
 {
  "type": "FeatureCollection",
  "features": [
@@ -168,10 +168,13 @@ counting of visitors to this page in this section started from March 2, 2024
 
 
 ### Profile Views
-counting of visitors to this page in this section started from June 12, 2022
+counting of visitors to this page in this section started from March 2, 2024
 
 ![](https://count.getloli.com/get/@LucasLOOT.github.readme)
 </br>
+
+counting of visitors to all page in this section started from March 2, 2024
+![](https://count.getloli.com/get/@LucasLOOT)
 
 [MIT](LICENSE)
 
