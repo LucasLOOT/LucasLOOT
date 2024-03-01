@@ -5,8 +5,7 @@
     <a href="https://github.com/LucasLOOT/LucasLOOT"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
     <a href="https://github.com/LucasLOOT/LucasLOOT/graphs/contributors"><img src="https://img.shields.io/github/contributors/LucasLOOT/LucasLOOT?color=violet"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=LucasLOOT.LucasLOOT" alt="visitors" style="filter: invert(59%) sepia(72%) saturate(5318%) hue-rotate(349deg) brightness(102%) contrast(102%);">
-    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=LucasLOOT.LucasLOOT?color=Lavender" alt="visitors"/>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     <a href="https://github.com/LucasLOOT/LucasLOOT/stargazers"><img src="https://img.shields.io/github/stars/LucasLOOT/LucasLOOT.svg?logo=github"></a>
     <a href="https://github.com/LucasLOOT/LucasLOOT/network/members"><img src="https://img.shields.io/github/forks/LucasLOOT/LucasLOOT.svg?color=blue&logo=github"></a><br><br>
     <a href=""><img src="https://img.shields.io/badge/Website-博客-yellow" /></a>&emsp;
