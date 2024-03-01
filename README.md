@@ -13,7 +13,6 @@
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
     <a href="https://github.com/LucasLOOT/LucasLOOT/graphs/contributors"><img src="https://img.shields.io/github/contributors/LucasLOOT/LucasLOOT?color=violet"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=LucasLOOT.LucasLOOT" alt="visitors"/><br><br>
-    
 <!-- 
     <a href="https://twitter.com/lootCelestial"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href="https://www.youtube.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-油管-red" /></a>&emsp;
