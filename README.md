@@ -230,7 +230,7 @@ counting of visitors to this page in this section started from March 2, 2024
 
 [![Star History Chart](https://api.star-history.com/svg?repos=LucasLOOT/LucasLOOT&type=Date)](https://star-history.com/#LucasLOOT/LucasLOOT&Date)
 
-
+<div align="center">
 
 ### Profile Views
 
@@ -245,8 +245,8 @@ counting of visitors to all page in this section started from March 2, 2024
 ![](https://count.getloli.com/get/@LucasLOOT)
 <br>
 
-
 [MIT](LICENSE)
+</div>
 
 
 </p>
