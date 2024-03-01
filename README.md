@@ -53,14 +53,15 @@
 <!--   GitHub stats graph -->
 <br><br>
 <!-- -->
-<br><br>
-<!-- -->
-
 
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![LucasLOOT's github stats](https://github-readme-stats.vercel.app/api?username=LucasLOOT&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLOOT&theme=radical&layout=compact) |
+
+<br><br>
+<!-- -->
+
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasLOOT" alt="GitHub Streak">
@@ -68,7 +69,7 @@
 
 
 <!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./assets/profile-3d-contrib/profile-green-animate.svg)
 
 <!--   grid-snake -->
 ![](https://github.com/LucasLOOT/LucasLOOT/blob/output/github-contribution-grid-snake.svg)
