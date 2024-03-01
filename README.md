@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/github/license/LucasLOOT/github-contributions" alt="language"/>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=LucasLOOT.LucasLOOT" alt="visitors"/><br><br>
 <!-- -->
-    <a href=""><img src="https://img.shields.io/badge/Website-Blog-Gold" /></a>&emsp;
+    <a href=""><img src="https://img.shields.io/badge/Website-Blog-yellow" /></a>&emsp;
     <a href=""><img src="https://img.shields.io/badge/WeChat-Cooperation-green" /></a>&emsp;
     <a href="https://space.bilibili.com/1158350144"><img src="https://img.shields.io/badge/Bilibili-Learning-ff69b4" /></a>&emsp;
     <a href="https://blog.csdn.net/m0_64076751"><img src="https://img.shields.io/badge/CSDN-Assignment-orange" /></a>&emsp;
@@ -26,11 +26,11 @@
 
 <!--   my-header-img -->
 ![](./assets/images/cartoonSoftware_.png)
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Andrej+Marinchenko;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Lucas+LOOT;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
+
 
 
 <!--   my-kaggle     
@@ -211,3 +211,7 @@ If you want to contribute to any of my repositories, feel free to submit PRs, is
 ---
 
 ![](assets/Bottom_down.svg)
+
+
+Initial drawing  `I love you`:
+![](./assets/images/I_love_you.png)
