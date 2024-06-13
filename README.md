@@ -239,16 +239,15 @@ counting of visitors to this page in this section started from March 2, 2024
 
 counting of visitors to this page in this section started from March 2, 2024
 
-![](https://count.getloli.com/get/@LucasLOOT.github.readme)
+![](https://counter.katomegumi.net/get/@LucasLOOT.github.readme)
 </br>
 
 
 counting of visitors to all page in this section started from March 2, 2024
 
-![LucasLOOT](https://count.getloli.com/get/@LucasLOOT)
+<!-- ![LucasLOOT](https://count.getloli.com/get/@LucasLOOT) -->
 <!-- ![LucasLOOT](https://count.getloli.com/get/@LucasLOOT?theme=gelbooru) -->
-<!-- ![LucasLOOT](https://counter.katomegumi.net/get/@LucasLOOT?theme=gelbooru) -->
-
+![LucasLOOT](https://counter.katomegumi.net/get/@LucasLOOT?theme=gelbooru)
 <br>
 
 
