@@ -245,8 +245,12 @@ counting of visitors to this page in this section started from March 2, 2024
 
 counting of visitors to all page in this section started from March 2, 2024
 
-![](https://count.getloli.com/get/@LucasLOOT)
+![:name](https://count.getloli.com/get/@:name)
+<!-- ![](https://count.getloli.com/get/@LucasLOOT?theme=gelbooru) -->
+<!-- ![](https://counter.katomegumi.net/get/@LucasLOOT?theme=gelbooru) -->
+
 <br>
+
 
 
 <!-- [MIT](LICENSE) -->
