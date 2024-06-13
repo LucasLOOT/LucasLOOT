@@ -181,7 +181,7 @@ width="30%">
 
 
 
-```json
+```geojson
 {
  "type": "FeatureCollection",
  "features": [
