@@ -177,7 +177,7 @@ width="30%">
 
 
 
-<!-- <img src="./assets/images/github-metrics.svg" alt="Metrics" width="100%"> -->
+<img src="./assets/images/github-metrics.svg" alt="Metrics" width="100%">
 
 
 
@@ -249,7 +249,7 @@ counting of visitors to all page in this section started from March 2, 2024
 <br>
 
 
-[MIT](LICENSE)
+<!-- [MIT](LICENSE) -->
 
 
 </p>
