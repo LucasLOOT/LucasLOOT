@@ -176,8 +176,8 @@ width="30%">
 </p>
 
 
-
-<img src="./assets/images/github-metrics.svg" alt="Metrics" width="100%">
+<!-- others -->
+<!-- <img src="./assets/images/github-metrics.svg" alt="Metrics" width="100%"> -->
 
 
 
