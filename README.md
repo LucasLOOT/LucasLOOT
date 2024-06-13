@@ -183,9 +183,9 @@ width="30%">
 
 ```geojson
 {
- "type": "FeatureCollection",
- "features": [
-   {
+  "type": "FeatureCollection",
+  "features": [
+  {
      "type": "Feature",
      "id": 1,
      "properties": {
@@ -195,16 +195,17 @@ width="30%">
        "type": "Polygon",
        "coordinates": [
          [
-           [120.85, 31.41],  
-           [121.89, 31.41], 
+           [120.85, 31.41],
+           [120.85, 30.67],
            [121.89, 30.67],
-           [120.85, 30.67], 
-           [120.85, 31.41] 
+           [121.89, 31.41],
+           [120.85, 31.41]
+     
          ]
        ]
      }
    }
- ]
+  ]
 }
 ``` 
 
