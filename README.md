@@ -166,14 +166,14 @@
 </p>
 
 
-<div align="center">
+<!-- <div align="center">
 <summary>Trophy: Hackerrank Profile Trophy</summary>
 </div>
 
 <p align="center"> 
 <img src="./assets/images/badges_hackerrank.png" alt="Metrics" width="57%"> <img src="./assets/images/hackerrank-logo.jpg" alt="Metrics" 
 width="30%">
-</p>
+</p> -->
 
 
 
