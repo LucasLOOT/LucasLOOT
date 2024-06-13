@@ -181,7 +181,7 @@ width="30%">
 
 
 
-```geojson
+```json
 {
  "type": "FeatureCollection",
  "features": [
@@ -208,14 +208,16 @@ width="30%">
 }
 ``` 
 
-<!-- <p align="center"> 
+<!-- 
+<p align="center"> 
 
 <img src="./assets/images/credly0.png" alt="ibm" width="100%">
 <img src="./assets/images/credly1.png" alt="ibm" width="100%">
 <img src="./assets/images/credly2.png" alt="ibm" width="100%">
 
-</p> 
--->
+</p>  -->
+
+
 
 
 
