@@ -246,10 +246,20 @@ counting of visitors to this page in this section started from March 2, 2024
 
 <a href="https://info.flagcounter.com/Xz2O"><img src="https://s11.flagcounter.com/countxl/Xz2O/bg_FFFCFC/txt_4BE3DE/border_BF30BF/columns_8/maxflags_50/viewers_0/labels_1/pageviews_1/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
 
+<!-- ## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=LucasLOOT/LucasLOOT&type=Date)](https://star-history.com/#LucasLOOT/LucasLOOT&Date) -->
+
+
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=LucasLOOT/LucasLOOT&type=Date)](https://star-history.com/#LucasLOOT/LucasLOOT&Date)
-
+<a href="https://star-history.com/#LucasLOOT/LucasLOOT&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=LucasLOOT/LucasLOOT&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=LucasLOOT/LucasLOOT&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=LucasLOOT/LucasLOOT&type=Date" />
+ </picture>
+</a>
 
 
 ### Profile Views
